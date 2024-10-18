@@ -1,7 +1,7 @@
 Role Name
 =========
 
-Role installing Clickhouse.
+This role installing Clickhouse 1.0.0.
 
 Requirements
 ------------
